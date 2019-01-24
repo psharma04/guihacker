@@ -13,6 +13,6 @@ Added some limited options for customizability
 
 You can pass the options to the url via the location hash like so
 
-```http://guihacker.com/#{"title":"sometitle", "color" : "red", "gui":false}```
+```http://roadworkreviews.tk/guihacker/#{"title":"sometitle", "color" : "red", "gui":false}```
 
-[Running at http://guihacker.com](http://guihacker.com)
+[Running at https://roadworkreviews.tk/guihacker](https://roadworkreviews.tk/guihacker)
